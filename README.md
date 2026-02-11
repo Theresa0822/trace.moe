@@ -88,7 +88,7 @@ You can also increase `MAX_WORKER` to make hashing faster.
 
 ### Using pre-hashed data
 
-> Loading all 100,000+ files to Milvus requires 256GB RAM. (will crash if it runs out of memory)
+> Loading all 100,000+ files to Milvus requires about 192GB RAM
 
 1. Download the pre-hashed data here: [trace.moe database dump 2025-10](https://nyaa.si/view/2029214)
 
